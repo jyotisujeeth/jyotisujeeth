@@ -2,7 +2,7 @@
 - 👀 I’m interested in fullstack 
 - 🌱 I’m currently learning @ sharpener.tech
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mail me at jyotisujeeth@gmail.com
 
 <!---
 jyotisujeeth/jyotisujeeth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
