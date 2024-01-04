@@ -5,9 +5,14 @@
 - 📫 To reach me, mail me at jyotisujeeth@gmail.com
 
 ## Connect with me
-[linked-in]
+[
+linked-in
+]
 (https://www.linkedin.com/in/jyotisujeeth-patil-backend-developer) 
-[twitter]
+
+[
+twitter
+]
 (https://twitter.com/jyotisujeeth)
 
 ## Expertise
